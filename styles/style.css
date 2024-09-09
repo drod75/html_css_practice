@@ -1,0 +1,13 @@
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.text-edit{
+  font-style: poppins-medium;
+  font-size: 20px;
+  vertical-align: top;
+  display: inline-block;
+  margin-right: 20px;
+  width: 300px;
+}
